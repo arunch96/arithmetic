@@ -7,3 +7,5 @@ int main()
 	printf("%d \n", ptr);
 	return 0;
 }
+
+//output:10,random number
